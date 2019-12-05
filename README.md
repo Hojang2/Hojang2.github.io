@@ -1,6 +1,6 @@
-# The Copr Blog
+# Hojang's blog
 
-<https://fedora-copr.github.io/>
+<https://hojang2.github.io/>
 
 
 ## How to write a post
