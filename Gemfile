@@ -9,7 +9,7 @@ ruby RUBY_VERSION
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", ">= 3.6.3"
+gem 'jekyll', '~> 3.6', '>= 3.6.3'
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima"
@@ -20,5 +20,5 @@ gem "minima"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll_remote_include", "~> 0.1.5"
+  gem 'jekyll-remote-include', '~> 1.0', '>= 1.0.2'
 end

@@ -30,4 +30,4 @@ markdown: kramdown
 theme: minima
 
 gems:
-  - jekyll_remote_include
+  - jekyll-remote-include
