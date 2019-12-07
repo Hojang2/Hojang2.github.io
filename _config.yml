@@ -18,8 +18,8 @@ email: buchmaier.jan@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
       This blog contains articles about my student and programming activities.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, link to where my blog will be hosted
-permalink: /posts/:title
+url: "https://hojang2.github.io" # the base hostname & protocol for your site, link to where my blog will be hosted
+permalink: /posts/:title/
 github_username:  Hojang2
 
 disqus:
